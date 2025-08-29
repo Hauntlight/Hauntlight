@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">👋 Hi, I'm Pietro Cassieri</h1>
-<h3 align="center">Software Engineer | PhD Researcher in Software Engineering | Open-Source Enthusiast</h3>
+<h3 align="center">Software Engineer | PhD Researcher | Open-Source Enthusiast</h3>
 
 ---
 
