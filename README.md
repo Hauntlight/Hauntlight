@@ -41,7 +41,7 @@
 - 👨‍🏫 Former **CTO & Software Developer**, with teaching experience.  
 - 🎯 Semi-Active in **CTF competitions** (team *err:404-NameNotFound*).  
 - 🧩 Problem-solving enthusiast on LeetCode.  
-
+- ![](https://komarev.com/ghpvc/?username=Hauntlight)
 
 ---
 
