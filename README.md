@@ -39,7 +39,7 @@
 - 📖 Publications at international venues.  
 - 🏆 Recognitions including **Best Paper Award (PROFES 2023)**.  
 - 👨‍🏫 Former **CTO & Software Developer**, with teaching experience.  
-- 🎯 Semi-Active in **CTF competitions** (team *err:404-NameNotFound*).  
+- 🎯 Semi-Active in **CTF competitions** (team [*err:404-NameNotFound*](https://ctftime.org/team/90670)).  
 - 🧩 Problem-solving enthusiast on LeetCode.  
 - ![](https://komarev.com/ghpvc/?username=Hauntlight)
 
